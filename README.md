@@ -5,7 +5,7 @@ IoT-based monitoring solutions, data-driven applications, and system integration
 includes publishing an IoT-related study in a peer-reviewed journal and participating in an international
 exchange program at National Formosa University, Taiwan, through the IISMA initiative. I am driven to
 contribute to technology-focused internship programs where engineering solutions are developed,
-evaluated, and deployed to address practical challenges
+evaluated, and deployed to address practical challenges.
 
 ## 🌐 Socials:
 
