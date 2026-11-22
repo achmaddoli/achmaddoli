@@ -2,8 +2,9 @@
 
 ### Informatics Engineering Student | IoT Enthusiast | Web Developer
 
-An Informatics Engineering student passionate about building technology solutions through IoT systems, web development, and data-driven applications. Experienced in developing monitoring systems, conducting research publications, and participating in the IISMA 2024 international exchange program at National Formosa University, Taiwan.
-
+Applied Informatics Engineering student with experience in machine learning, data analytics, IoT, system integration, and network
+monitoring. Gained international academic experience through the IISMA student exchange program at National Formosa University,
+Taiwan. Interested in applying data-driven and intelligent technologies to solve practical real-world problems.
 ---
 
 ## 🌐 Connect With Me
